@@ -1,4 +1,8 @@
-This is a simple Plugin for revealing content, sitting on the top of the page. 
+This is a simple jQuery-Plugin for revealing content which is hidden at the top of the page. 
 
-Basically, you click a link and a div falls from top of the page, pushes the other content down and a overlay a la fancybox fades over the it.
+Basically, you click a link and a div falls from top of the page, pushes the other content down and a overlays it a la fancybox.
+
+I'm happy about any feedback and optimizing tips.
 Feel free to fork.
+
+Cheers Nick
