@@ -1,0 +1,31 @@
+#pf_overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  z-index: 9000;
+}
+
+#pf_close {
+  margin: 15px auto;
+  display: none;
+  padding: 5px 8px 4px 25px;
+  text-align: center;
+  background: white url('../img/cross.png') no-repeat 12px 4px;
+  -webkit-border-radius: 15px; 
+  -moz-border-radius: 15px; 
+  border-radius: 15px;
+  border: 2px solid #444444;
+  width: 80px;
+  text-decoration: none;
+  color: black;
+  position: absolute;
+  z-index: 9001;
+}
+
+#pf_close:hover {
+  color: #FE901B;
+}
